@@ -117,7 +117,7 @@
 #elif defined(TBLE_MIT)
 &trans  &trans       &trans     &trans      &trans           &trans            &trans        &trans      &trans &trans &trans
 #else
-&trans  &trans       &trans     &trans      &trans    &trans         &trans     &trans  &trans     &kp C_VOL_UP     &kp C_VOL_DN    &trans
+&trans  &trans       &trans     &trans      &trans    &trans         &trans     &trans  &kp C_PLAY_PAUSE    &kp C_VOL_UP     &kp C_VOL_DN    &kp C_NEXT
 #endif
             >;
         };
