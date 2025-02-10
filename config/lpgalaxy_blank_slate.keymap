@@ -133,7 +133,7 @@
 #elif defined(TBLE_MIT)
 &trans &trans        &trans     &trans        &trans                &trans             &trans      &trans   &trans &trans &trans
 #else
-&trans &trans        &trans     &trans        &trans          &trans       &trans    &trans  &kp HOME    &kp PG_UP &kp PG_DN &kp END
+&trans &trans        &trans     &trans        &trans          &trans       &trans    &trans  &kp END    &kp PG_DN &kp PG_UP &kp HOME
 #endif
             >;
         };
